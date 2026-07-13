@@ -15,6 +15,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
 
 * 2024 - 2030, Zhejiang Normal University, Ph.D in Computer Science and Technology.
 * 2020 - 2024, Huaibei Normal University, Bachelor of Intelligence Science and Technology.
+  
 ---
 
 ## News
