@@ -10,7 +10,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Yuankun Xia
-  tagline: Master
+  tagline: Ph.D.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
