@@ -5,9 +5,9 @@ title: Yuankun Xia's Homepage
 
 ## About Me
 
-I am currently a Master student at Zhejiang Normal University, Jinhua, China. 
+I am currently a Ph.D. student in Prof. Hui Wang’s research group at Zhejiang Normal University, Jinhua, China. 
 
-My research interests generally lie in **Federated Learning**, **Wireless Communications**, and **Artificial Intelligence**. I am particularly focused on exploring personalized federated learning frameworks and cross-modal knowledge distillation to solve multi-domain challenges.
+My research interests generally lie in **Federated Learning**, **Wireless Communications**, **LoRA-based fine-tuning**, and **Edge Intelligence**.
 
 You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
@@ -76,4 +76,4 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
 ## Education
 
-* **Master's Degree**, Zhejiang Normal University, China.
+* **Ph.D.**, Zhejiang Normal University, China.
