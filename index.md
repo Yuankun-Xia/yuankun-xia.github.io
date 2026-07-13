@@ -9,8 +9,12 @@ I am currently a Ph.D. student in Prof. Hui Wang’s research group at Zhejiang 
 
 My research interests generally lie in **Federated Learning**, **Wireless Communications**, **LoRA-based fine-tuning**, and **Edge Intelligence**.
 
-You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
+You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
 
+## Education
+
+* 2024 - 2030, Zhejiang Normal University, Ph.D in Computer Science and Technology.
+* 2020 - 2024, Huaibei Normal University, Bachelor of Intelligence Science and Technology.
 ---
 
 ## News
@@ -53,10 +57,6 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    **IEEE Internet of Things Journal** (**IOTJ**), 2025.
    [Link](https://ieeexplore.ieee.org/document/11075835)
 
-
-
-
-
 ### Conference Papers
 * **MPDU: Momentum-Preserving Diffusion Unrolling via Explicit Subspace Decoupling for Compressed Sensing**
   <br>
@@ -71,9 +71,3 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
   <br>
   **IEEE International Conference on Communications**(**ICC**), 2026.
   [Link](Coming Soon)
-
----
-
-## Education
-
-* **Ph.D.**, Zhejiang Normal University, China.
