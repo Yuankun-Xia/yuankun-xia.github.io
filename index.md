@@ -72,14 +72,14 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
   **Yuankun Xia**, Hui Wang*, Ling Yuan, Ziyu Hong, Di Yin and Yufeng Zhou.
   <br>
   **IEEE Global Communications Conference**(**Globecom**), 2026.
-  [Link](Coming Soon)
+  [Link]
   
 * **MPDU: Momentum-Preserving Diffusion Unrolling via Explicit Subspace Decoupling for Compressed Sensing**
   <br>
   Yufeng Zhou, Yiteng Zhang, **Yuankun Xia**, Hui Wang*.
   <br>
   **IEEE International Conference on Multimedia & Expo**(**ICME**), 2026.
-  [Link](Coming Soon)
+  [Link]
 
 * **A Lightweight Blockchain-Based Cross-Domain Authentication and Key Agreement Protocol for Industrial IoT**
   <br>
