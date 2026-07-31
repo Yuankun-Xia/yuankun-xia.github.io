@@ -19,9 +19,10 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
 ---
 
 ## News
+* **[2026.07]** Our paper "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation" was accepted by *IEEE Global Communications Conference (Globecom)*!
 * **[2026.05]** Successfully pass the postgraduate and doctoral joint program interview and obtain an offer!
-* **[2026.01]** One paper on cross-modal knowledge distillation was accepted by *Knowledge-Based Systems (KBS)*!
-* **[2025.09]** Our paper "pFedMLKD" was accepted by *IEEE Internet of Things Journal (IOTJ)*!
+* **[2026.01]** One paper "FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition" was accepted by *Knowledge-Based Systems (KBS)*!
+* **[2025.09]** Our paper "pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation" was accepted by *IEEE Internet of Things Journal (IOTJ)*!
 
 ---
 
@@ -66,6 +67,13 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
    [Link](https://ieeexplore.ieee.org/document/11075835)
 
 ### Conference Papers
+* **Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation**
+  <br>
+  **Yuankun Xia**, Hui Wang*, Ling Yuan, Ziyu Hong, Di Yin and Yufeng Zhou.
+  <br>
+  **IEEE Global Communications Conference**(**Globecom**), 2026.
+  [Link](Coming Soon)
+  
 * **MPDU: Momentum-Preserving Diffusion Unrolling via Explicit Subspace Decoupling for Compressed Sensing**
   <br>
   Yufeng Zhou, Yiteng Zhang, **Yuankun Xia**, Hui Wang*.
