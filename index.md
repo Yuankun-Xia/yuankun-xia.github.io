@@ -78,4 +78,4 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
   Yu Huang, Maode Ma, Hui Wang*, Na Li, **Yuankun Xia**.
   <br>
   **IEEE International Conference on Communications**(**ICC**), 2026.
-  [Link](Coming Soon)
+  [Link](https://ieeexplore.ieee.org/document/11587511)
