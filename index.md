@@ -29,6 +29,13 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
 
 ### Journal Papers
 
+* **In-loop kernel refinement: Robust blind inverse problems via conditional diffusion and sparse Bayesian learning**
+     <br>
+   Ziyu Hong, **Yuankun Xia** and Hui Wang*.
+   <br>
+   **Neurocomputing**, 2026. 
+    [Link](https://www.sciencedirect.com/science/article/pii/S0925231226020813)
+
 
 * **LBCM: A Scalable and DDoS-resistant Cross-domain Authentication Protocol for IIoT using Chaotic Maps and Merkle Tree**
      <br>
