@@ -19,10 +19,10 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
 ---
 
 ## News
-* **[2026.07]** Our paper "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation" was accepted by *IEEE Global Communications Conference (Globecom)*!
-* **[2026.05]** Successfully pass the postgraduate and doctoral joint program interview and obtain an offer!
-* **[2026.01]** One paper "FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition" was accepted by *Knowledge-Based Systems (KBS)*!
-* **[2025.09]** Our paper "pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation" was accepted by *IEEE Internet of Things Journal (IOTJ)*!
+* **[2026.07]** Our paper "Communication-Efficient Federated Domain Generalization in Edge Networks via Dynamic Prototype Regulation" was accepted by *IEEE Global Communications Conference (Globecom)* !
+* **[2026.05]** Successfully pass the postgraduate and doctoral joint program interview and obtain an offer !
+* **[2026.01]** One paper "FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition" was accepted by *Knowledge-Based Systems (KBS)* !
+* **[2025.09]** Our paper "pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation" was accepted by *IEEE Internet of Things Journal (IOTJ)* !
 
 ---
 
