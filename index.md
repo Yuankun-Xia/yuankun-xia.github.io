@@ -72,7 +72,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn).
   **Yuankun Xia**, Hui Wang*, Ling Yuan, Ziyu Hong, Di Yin and Yufeng Zhou.
   <br>
   **IEEE Global Communications Conference**(**Globecom**), 2026.
-  [Link]
+  [Link](https://arxiv.org/abs/2610.25810)
   
 * **MPDU: Momentum-Preserving Diffusion Unrolling via Explicit Subspace Decoupling for Compressed Sensing**
   <br>
